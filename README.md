@@ -1,6 +1,6 @@
 # Cookiefactory-22-23-Team-i
 
-Ce projet est un fork du travail qu'on a eu à réaliser pour valider notre module de conception logicielle.
+Ce projet est un **fork** du travail qu'on a eu à réaliser pour valider notre module de conception logicielle.
 On a fait évoluer une application Java chaque semaine en commençant par la conception UML jusqu'a la partie programmation en suivant la méthode AGILE
 
  
